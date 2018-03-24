@@ -1,7 +1,6 @@
 /* eslint-disable import/no-extraneous-dependencies,no-unused-vars */
-import colors from 'colors';
+var colors = require('colors')
 
 /* eslint-disable no-console */
 
-console.log('Starting app in dev mode...'.green);
-
+console.log('Starting app in dev mode...'.bgBlue);

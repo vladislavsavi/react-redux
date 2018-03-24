@@ -28,7 +28,7 @@
     "body-parser": "^1.18.2",
     "cheerio": "^1.0.0-rc.2",
     "clean-webpack-plugin": "^0.1.17",
-    "colors": "^1.1.2",
+    "colors": "^1.2.1",
     "compression": "^1.7.1",
     "express": "^4.16.2",
     "file-loader": "^1.1.6",

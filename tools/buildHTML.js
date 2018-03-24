@@ -46,4 +46,3 @@ fs.readFile(html, 'utf8', (err, markup) => {
 
   return 0;
 });
-
